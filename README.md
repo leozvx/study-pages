@@ -13,7 +13,9 @@
 
 # 2SI
 2SI Vídeos e conteúdos importantes.
-  ### Algoritmos
+
+
+### Algoritmos
 
 - [https://www.youtube.com/watch?v=CBYHwZcbD-s](https://www.youtube.com/watch?v=CBYHwZcbD-s)
 - [https://www.youtube.com/watch?v=8hly31xKli0](https://www.youtube.com/watch?v=8hly31xKli0)
